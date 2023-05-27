@@ -1,0 +1,247 @@
+[33mcommit e2abc86e909e3b8b45774a145e5566d0c7150f59[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 20:47:27 2023 +0100
+
+    added file history
+
+[1mdiff --git a/history.txt b/history.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit c92ead4800601dc43ed2abbf55ce4e949675b220[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:17:44 2023 +0100
+
+    added file chorus 6
+
+[1mdiff --git a/chorus 6.txt b/chorus 6.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..90f35e0[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 6.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mThis is the day, when things fall into place[m
+\ No newline at end of file[m
+
+[33mcommit 57d34017c605a0b7f218b0b6559bbe5e880256ff[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:17:14 2023 +0100
+
+    added file chorus 5
+
+[1mdiff --git a/chorus 5.txt b/chorus 5.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fe216a6[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 5.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mThis is the day, your life will surely change[m
+\ No newline at end of file[m
+
+[33mcommit c5a0bd61747433ba9d0bb96255b68944af696d67[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:16:29 2023 +0100
+
+    added file chorus 4
+
+[1mdiff --git a/chorus 4.txt b/chorus 4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3389a39[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 4.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mAcross a clear blue sky[m
+\ No newline at end of file[m
+
+[33mcommit 0e25604a634183c5d321e451292427ed15901403[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:15:53 2023 +0100
+
+    added file chorus 3
+
+[1mdiff --git a/chorus 3.txt b/chorus 3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fb30a78[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 3.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mYou watch a plane flying[m
+
+[33mcommit 0ef62dbb8b37c6ab57f6674970c8ef024ff344d2[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:15:11 2023 +0100
+
+    added file chorus 2
+
+[1mdiff --git a/chorus 2.txt b/chorus 2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..25a974c[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 2.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mAnd the sun burns into your eyes[m
+\ No newline at end of file[m
+
+[33mcommit 885e285ce1b646d2527f2ccdd608ef1e18c648fd[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:14:39 2023 +0100
+
+    added file chorus 1
+
+[1mdiff --git a/chorus 1.txt b/chorus 1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..55977f1[m
+[1m--- /dev/null[m
+[1m+++ b/chorus 1.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mYou pull back the curtains[m
+\ No newline at end of file[m
+
+[33mcommit 842709d87ff216aed71296cc7ab4c48ab83dada9[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:06:59 2023 +0100
+
+    added file Verse 6
+
+[1mdiff --git a/Verse 6.txt b/Verse 6.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..444f807[m
+[1m--- /dev/null[m
+[1m+++ b/Verse 6.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mYou smile and think how much you've changed[m
+\ No newline at end of file[m
+
+[33mcommit 976b75a3d258ad9132884dfe410021d00f75f6d8[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:06:07 2023 +0100
+
+    added file verse 5
+
+[1mdiff --git a/Verse 5.txt b/Verse 5.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0b1c7c0[m
+[1m--- /dev/null[m
+[1m+++ b/Verse 5.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mYou've been reading some old letters[m
+\ No newline at end of file[m
+
+[33mcommit ce79aa4fccda3772ed40ae8866bdc7745dd5fb28[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:04:28 2023 +0100
+
+    Added file verse 4
+
+[1mdiff --git a/Verse 4.txt b/Verse 4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..da90f40[m
+[1m--- /dev/null[m
+[1m+++ b/Verse 4.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mThe calendar on your wall was ticking the days off[m
+\ No newline at end of file[m
+
+[33mcommit 4f29850d1e1ab90e9e48dfbc195b501767bceae2[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 19:01:09 2023 +0100
+
+    Added new file
+
+[1mdiff --git a/Verse 2.txt b/Verse 2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/Verse 3.txt b/Verse 3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0070143[m
+[1m--- /dev/null[m
+[1m+++ b/Verse 3.txt[m	
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mYou were watching the whites of your eyes turn red[m
+\ No newline at end of file[m
+
+[33mcommit d0005af22de4b6112119df9c1e96ae1114729495[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 18:43:10 2023 +0100
+
+    Added new file
+
+[1mdiff --git a/Well you didn't wake up this morning.txt b/Well you didn't wake up this morning.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/test 1.txt b/test 1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/verse 1.txt b/verse 1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 741e92c4a875ef08715b4ce1005353159134c073[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Wed May 24 18:04:09 2023 +0100
+
+    added song.txt
+
+[1mdiff --git a/new_folder/song.txt b/new_folder/song.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cdcde33[m
+[1m--- /dev/null[m
+[1m+++ b/new_folder/song.txt[m
+[36m@@ -0,0 +1,26 @@[m
+[32m+[m[32mWell you didn't wake up this morning 'cause you didn't go to bed[m
+[32m+[m[32mYou were watching the whites of your eyes turn red[m
+[32m+[m[32mThe calendar on your wall was ticking the days off[m
+[32m+[m[32mYou've been reading some old letters[m
+[32m+[m[32mYou smile and think how much you've changed[m
+[32m+[m[32mAll the money in the world couldn't buy back those days[m
+[32m+[m[32mYou pull back the curtains[m
+[32m+[m[32mAnd the sun burns into your eyes[m
+[32m+[m[32mYou watch a plane flying[m
+[32m+[m[32mAcross a clear blue sky[m
+[32m+[m[32mThis is the day, your life will surely change[m
+[32m+[m[32mThis is the day, when things fall into place[m
+[32m+[m[32mYou could have done anything, if you wanted[m
+[32m+[m[32mAnd all your friends and family think that you're lucky[m
+[32m+[m[32mBut the side of you they'll never see[m
+[32m+[m[32mIs when you're left alone with your memories[m
+[32m+[m[32mThat hold your life together, like glue[m
+[32m+[m[32mYou pull back the curtains[m
+[32m+[m[32mAnd the sun burns into your eyes[m
+[32m+[m[32mYou watch a plane flying[m
+[32m+[m[32mAcross a clear blue sky[m
+[32m+[m[32mThis is the day, your life will surely change[m
+[32m+[m[32mThis is the day, when things fall into place[m
+[32m+[m[32mThis is the day (This is the day)[m
+[32m+[m[32mYour life will surely change[m
+[32m+[m[32mThis is the day (This is the day)[m
+\ No newline at end of file[m
+
+[33mcommit c4060d437a43b5efd205fd0732b643ac8ab70ece[m
+Author: Yu <liminyuk@amazon.com>
+Date:   Tue May 23 19:24:33 2023 +0100
+
+    song.txt
+
+[1mdiff --git a/song.txt b/song.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cdcde33[m
+[1m--- /dev/null[m
+[1m+++ b/song.txt[m
+[36m@@ -0,0 +1,26 @@[m
+[32m+[m[32mWell you didn't wake up this morning 'cause you didn't go to bed[m
+[32m+[m[32mYou were watching the whites of your eyes turn red[m
+[32m+[m[32mThe calendar on your wall was ticking the days off[m
+[32m+[m[32mYou've been reading some old letters[m
+[32m+[m[32mYou smile and think how much you've changed[m
+[32m+[m[32mAll the money in the world couldn't buy back those days[m
+[32m+[m[32mYou pull back the curtains[m
+[32m+[m[32mAnd the sun burns into your eyes[m
+[32m+[m[32mYou watch a plane flying[m
+[32m+[m[32mAcross a clear blue sky[m
+[32m+[m[32mThis is the day, your life will surely change[m
+[32m+[m[32mThis is the day, when things fall into place[m
+[32m+[m[32mYou could have done anything, if you wanted[m
+[32m+[m[32mAnd all your friends and family think that you're lucky[m
+[32m+[m[32mBut the side of you they'll never see[m
+[32m+[m[32mIs when you're left alone with your memories[m
+[32m+[m[32mThat hold
